@@ -1,9 +1,115 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="HdG7aZG_9jgFCWQcGg3R">
-    <mxGraphModel>
+    <mxGraphModel dx="1444" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.087;exitY=0.217;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uEg3FXgKtTP-tcmUXmuS-1" target="uEg3FXgKtTP-tcmUXmuS-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="uEg3FXgKtTP-tcmUXmuS-1" target="uEg3FXgKtTP-tcmUXmuS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-36" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uEg3FXgKtTP-tcmUXmuS-1" target="uEg3FXgKtTP-tcmUXmuS-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.891;exitY=0.185;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uEg3FXgKtTP-tcmUXmuS-1" target="uEg3FXgKtTP-tcmUXmuS-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="uEg3FXgKtTP-tcmUXmuS-1" target="uEg3FXgKtTP-tcmUXmuS-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uEg3FXgKtTP-tcmUXmuS-1" target="uEg3FXgKtTP-tcmUXmuS-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;مراحل تعلم اللغة الإنجليزية&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="920" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-24" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.006;exitY=0.935;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uEg3FXgKtTP-tcmUXmuS-8" target="uEg3FXgKtTP-tcmUXmuS-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-26" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.013;exitY=0.942;exitDx=0;exitDy=0;entryX=0.991;entryY=0.19;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="uEg3FXgKtTP-tcmUXmuS-8" target="uEg3FXgKtTP-tcmUXmuS-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;المرحلة الابتدائية&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-23" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;strong style=&quot;&quot;&gt;المفردات الأساسية&lt;/strong&gt;: تعلم الكلمات والعبارات الأساسية المستخدمة في الحياة اليومية&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="40" y="960" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-25" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;strong&gt;القواعد البسيطة&lt;/strong&gt;: فهم القواعد الأساسية مثل زمن المضارع البسيط، والأفعال الشائعة&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;align=right;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1120" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-30" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.032;exitY=0.066;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uEg3FXgKtTP-tcmUXmuS-27" target="uEg3FXgKtTP-tcmUXmuS-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-32" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.023;exitY=0.042;exitDx=0;exitDy=0;entryX=0.62;entryY=0.775;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="uEg3FXgKtTP-tcmUXmuS-27" target="uEg3FXgKtTP-tcmUXmuS-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="860" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;المرحلة المتوسطة&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;strong&gt;توسيع المفردات&lt;/strong&gt;: تعلم كلمات جديدة تتعلق بمواضيع متنوعة مثل العائلة، الطعام، السفر&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="790" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;strong&gt;تحسين القواعد&lt;/strong&gt;: دراسة قواعد أكثر تعقيدًا مثل الأزمنة المختلفة، والجمل الشرطية&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="670" width="225" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-40" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.676;entryY=0.703;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEg3FXgKtTP-tcmUXmuS-35" target="uEg3FXgKtTP-tcmUXmuS-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-42" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.654;entryY=0.714;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uEg3FXgKtTP-tcmUXmuS-35" target="uEg3FXgKtTP-tcmUXmuS-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-35" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;المرحلة المتقدمة&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-39" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;strong&gt;تحسين الفهم السمعي&lt;/strong&gt;: الاستماع إلى محادثات، أفلام، أو مقاطع صوتية باللغة الإنجليزية&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="550" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;strong&gt;تطوير مهارات التحدث&lt;/strong&gt;: ممارسة المحادثة مع ناطقين أصليين أو في مجموعات دراسية&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="540" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-46" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.809;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.978;exitY=0.053;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uEg3FXgKtTP-tcmUXmuS-43" target="uEg3FXgKtTP-tcmUXmuS-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-48" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.974;exitY=0.053;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uEg3FXgKtTP-tcmUXmuS-43" target="uEg3FXgKtTP-tcmUXmuS-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1071" y="840" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-43" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;الكتابة والتحليل&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;strong&gt;تحسين مهارات الكتابة&lt;/strong&gt;: كتابة مقالات، رسائل، أو تقارير&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="660" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;strong&gt;التحليل الأدبي&lt;/strong&gt;: قراءة نصوص أدبية وتحليلها&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="790" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uEg3FXgKtTP-tcmUXmuS-43" target="uEg3FXgKtTP-tcmUXmuS-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-54" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.405;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.959;exitY=0.958;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uEg3FXgKtTP-tcmUXmuS-51" target="uEg3FXgKtTP-tcmUXmuS-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-56" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.967;exitY=0.948;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.006;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uEg3FXgKtTP-tcmUXmuS-51" target="uEg3FXgKtTP-tcmUXmuS-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-51" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;الممارسة المستمرة&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-53" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;strong&gt;الانغماس الثقافي&lt;/strong&gt;: التعرف على الثقافة الإنجليزية من خلال الأفلام، الموسيقى، والكتب&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1100" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-55" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;strong&gt;التفاعل اليومي&lt;/strong&gt;: استخدام اللغة في الحياة اليومية، مثل الكتابة على وسائل التواصل&amp;nbsp;الاجتماعي أو التحدث مع الأصدقاء&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="940" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uEg3FXgKtTP-tcmUXmuS-62" value="&lt;div style=&quot;font-size: 30px;&quot; data-complete=&quot;true&quot; class=&quot;ChatMessage_chatMessage__xkgHx&quot;&gt;&lt;div style=&quot;&quot; class=&quot;ChatMessage_messageRow__DHlnq&quot;&gt;&lt;div style=&quot;&quot; class=&quot;ChatMessage_messageWrapper__4Ugd6&quot;&gt;&lt;div style=&quot;&quot; class=&quot;Message_rowWithFooter__FShU6&quot;&gt;&lt;div style=&quot;&quot; class=&quot;Message_row__ug_UU&quot;&gt;&lt;div style=&quot;&quot; class=&quot;Message_leftSideMessageBubble__VPdk6&quot;&gt;&lt;div style=&quot;&quot; class=&quot;Markdown_markdownContainer__Tz3HQ&quot;&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;كل مرحلة تبني على ما تم تعلمه في المرحلة السابقة، مما يساعد على تطوير مهارات اللغة بشكل شامل&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1160" width="640" height="105" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
