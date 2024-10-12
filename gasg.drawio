@@ -1,9 +1,102 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="8P4Ma--fnbz3ZZtsfuUO">
-    <mxGraphModel>
+    <mxGraphModel dx="993" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zmrMwlTgeFPRjjYtQPGS-1" target="zmrMwlTgeFPRjjYtQPGS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zmrMwlTgeFPRjjYtQPGS-1" target="zmrMwlTgeFPRjjYtQPGS-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;الأحماض والقواعد&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zmrMwlTgeFPRjjYtQPGS-2" target="zmrMwlTgeFPRjjYtQPGS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zmrMwlTgeFPRjjYtQPGS-2" target="zmrMwlTgeFPRjjYtQPGS-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;خواص الأحماض والقواعد&lt;/b&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zmrMwlTgeFPRjjYtQPGS-4" target="zmrMwlTgeFPRjjYtQPGS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-13" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zmrMwlTgeFPRjjYtQPGS-4" target="zmrMwlTgeFPRjjYtQPGS-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="696.0000000000002" y="140" as="sourcePoint" />
+            <mxPoint x="696.0000000000002" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;الخواص الفيزيائية&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;المحاليل الحمضية طعمها لاذع&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;المحاليل القاعدية&amp;nbsp; ملمسها زلق&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;المحاليل الحمضية والقاعدية موصلة للكهرباء&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-22" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zmrMwlTgeFPRjjYtQPGS-18" target="zmrMwlTgeFPRjjYtQPGS-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;الخواص الكيميائية&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-24" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zmrMwlTgeFPRjjYtQPGS-20" target="zmrMwlTgeFPRjjYtQPGS-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-26" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zmrMwlTgeFPRjjYtQPGS-20" target="zmrMwlTgeFPRjjYtQPGS-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;التفاعل مع ورق&amp;nbsp;تباع الشمس&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-23" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;محاليل الأحماض يتحول اللون من الأزرق إلى الأحمر&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-25" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;محاليل القواعد يتحول اللون من الأحمر إلى الأزرق&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zmrMwlTgeFPRjjYtQPGS-29" target="zmrMwlTgeFPRjjYtQPGS-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zmrMwlTgeFPRjjYtQPGS-29" target="zmrMwlTgeFPRjjYtQPGS-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;أيونات الهيدرونيوم والهيدروكسيد&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zmrMwlTgeFPRjjYtQPGS-31" target="zmrMwlTgeFPRjjYtQPGS-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;المحلول الحمضي&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zmrMwlTgeFPRjjYtQPGS-33" target="zmrMwlTgeFPRjjYtQPGS-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;المحلول القاعدي&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-37" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;يحتوي&amp;nbsp;على أيونات الهيدروجين أكثر من أيونات الهيدروكسيد&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-39" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;يحتوي&amp;nbsp;على أيونات الهيدروكسيد أكثر من أيونات الهيدروجين&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zmrMwlTgeFPRjjYtQPGS-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;جهاد باعسيل&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;3\6&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="155" width="170" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
